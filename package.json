@@ -1,0 +1,25 @@
+{
+  "name": "pgp-logs-core-elastic",
+  "version": "1.1.0",
+  "description": "The elasticsearch models configuration for the pgp-logs services.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmajoras/pgp-logs-core-elastic.git"
+  },
+  "keywords": [
+    "pgp-logs",
+    "pgp-elastic"
+  ],
+  "author": "Poffal Paulo <pgabrielpoffal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmajoras/pgp-logs-core-elastic/issues"
+  },
+  "homepage": "https://github.com/pmajoras/pgp-logs-core-elastic#readme",
+  "dependencies": {
+    "elasticsearch-odm": "^1.1.0"
+  },
+  "devDependencies": {}
+}
