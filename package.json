@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/pmajoras/pgp-logs-core-elastic#readme",
   "dependencies": {
-    "elasticsearch-odm": "^1.1.0"
+    "elasticsearch-odm-2": "^0.3.5"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
