@@ -1,6 +1,6 @@
 {
   "name": "pgp-logs-core-elastic",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "The elasticsearch models configuration for the pgp-logs services.",
   "main": "index.js",
   "scripts": {},
