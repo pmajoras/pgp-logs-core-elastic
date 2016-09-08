@@ -1,5 +1,7 @@
 'use strict';
 
+const LogMessageModel = require('./lib/logMessageModel');
+
 module.exports = {
-  test: 'testValue'
+  LogMessageModel: LogMessageModel
 };
